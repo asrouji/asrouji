@@ -2,4 +2,4 @@
 
 ![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=asrouji&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrouji&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrouji&layout=compact&theme=radical)
