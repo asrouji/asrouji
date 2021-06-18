@@ -20,7 +20,7 @@ My name is Aidan Srouji, I am a second-year student at Loyola Marymount Universi
 </a>
 
 
-<a href="https://github.com/asrouji/asrouji">
+<!-- <a href="https://github.com/asrouji/asrouji">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asrouji&repo=zombies-among-us&theme=radical" />
-</a>    
+</a>     -->
 
