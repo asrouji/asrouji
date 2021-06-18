@@ -8,10 +8,6 @@ My name is Aidan Srouji, I am a second-year student at Loyola Marymount Universi
 
 ## 📈 Github Stats
 
-[![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=asrouji&show_icons=true&theme=radical)](https://github.com/asrouji/)
-
-[![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asrouji&layout=compact&theme=radical)](https://github.com/asrouji/)
-
 <a href="https://github.com/asrouji/asrouji">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrouji&theme=radical" />
 </a>
@@ -25,5 +21,6 @@ My name is Aidan Srouji, I am a second-year student at Loyola Marymount Universi
 
 
 <a href="https://github.com/asrouji/asrouji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asrouji&repo=asrouji&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asrouji&repo=zombies-among-us&theme=radical" />
 </a>    
+
