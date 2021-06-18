@@ -15,12 +15,12 @@ My name is Aidan Srouji, I am a second-year student at Loyola Marymount Universi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asrouji&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Aidan's GitHub Stats" />
 </a>
 
-<a href="https://github.com/asrouji/asrouji/LMU">
+<a href="https://github.com/asrouji/LMU">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asrouji&repo=LMU&theme=radical" />
 </a>
 
 
-<a href="https://github.com/asrouji/asrouji/zombies-among-us">
+<a href="https://github.com/asrouji/zombies-among-us">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asrouji&repo=zombies-among-us&theme=radical" />
 </a>
 
