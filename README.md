@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Aidan Srouji, I am a second-year student at Loyola Marymount University studying Computer Science
+My name is Aidan Srouji, I am a second-year student at Loyola Marymount University studying Computer Science.
 
 ## 🔧 Tools & Technologies
 
