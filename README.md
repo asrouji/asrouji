@@ -11,3 +11,19 @@ My name is Aidan Srouji, I am a second-year student at Loyola Marymount Universi
 [![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=asrouji&show_icons=true&theme=radical)](https://github.com/asrouji/)
 
 [![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asrouji&layout=compact&theme=radical)](https://github.com/asrouji/)
+
+<a href="https://github.com/asrouji/asrouji">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrouji&theme=radical" />
+</a>
+<a href="https://github.com/asrouji/asrouji">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asrouji&show_icons=true&line_height=27&count_private=true" alt="Aidan's GitHub Stats" />
+</a>
+
+<a href="https://github.com/asrouji/asrouji">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asrouji&repo=LMU" />
+</a>
+
+
+<a href="https://github.com/asrouji/asrouji">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asrouji&repo=asrouji" />
+</a>    
