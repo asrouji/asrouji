@@ -8,8 +8,10 @@ My name is Aidan Srouji, I am a second-year student at Loyola Marymount Universi
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudio&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=c63f79)
+![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=c63f79)
+![](https://img.shields.io/badge/Library-p5.js-informational?style=flat&logo=p5dotjs&logoColor=white&color=c63f79)
 
-## 📈 Github Stats
+## 📈 GitHub Stats
 
 <a href="https://github.com/asrouji?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrouji&theme=radical&langs_count=3&hide=typescript" />
