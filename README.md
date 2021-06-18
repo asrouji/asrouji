@@ -11,7 +11,7 @@ My name is Aidan Srouji, I am a second-year student at Loyola Marymount Universi
 
 ## 📈 Github Stats
 
-<a href="https://github.com/asrouji/asrouji">
+<a href="https://github.com/asrouji?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrouji&theme=radical&langs_count=3&hide=typescript" />
 </a>
 <a href="https://github.com/asrouji/asrouji">
