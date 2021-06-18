@@ -9,4 +9,4 @@
 </a>
 <br>
 
-![](https://img.shields.io/badge/OS-Windows 10>-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<Windows 10>>-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
