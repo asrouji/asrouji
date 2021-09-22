@@ -7,6 +7,7 @@ My name is Aidan Srouji, I am a second-year student at Loyola Marymount Universi
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudio&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=c63f79)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Library-p5.js-informational?style=flat&logo=p5dotjs&logoColor=white&color=c63f79)
