@@ -15,7 +15,7 @@ My name is Aidan Srouji, I am a second-year student at Loyola Marymount Universi
 ![](https://img.shields.io/badge/Library-p5.js-informational?style=flat&logo=p5dotjs&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=c63f79)
-![](https://img.shields.io/badge/Tool-Colaboratory-informational?style=flat&logo=googlecolab&logoColor=white&color=c63f79)
+![](https://img.shields.io/badge/Tool-Google_Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=c63f79)
 
 ## 📈 GitHub Stats
 
