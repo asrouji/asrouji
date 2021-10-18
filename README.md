@@ -11,12 +11,11 @@ My name is Aidan Srouji, I am a second-year student at Loyola Marymount Universi
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Library-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Library-discord.js-informational?style=flat&logo=discord&logoColor=white&color=c63f79)
-![](https://img.shields.io/badge/Library-Node.js-informational?style=flat&logo=nodejs&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Library-p5.js-informational?style=flat&logo=p5dotjs&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=c63f79)
-![](https://img.shields.io/badge/Tool-Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=c63f79)
+![](https://img.shields.io/badge/Tool-Colaboratory-informational?style=flat&logo=googlecolab&logoColor=white&color=c63f79)
 
 ## 📈 GitHub Stats
 
