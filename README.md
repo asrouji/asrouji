@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Aidan Srouji, I am a second-year student at Loyola Marymount University studying Computer Science. I write Discord bots, design games, work on machine learning projects, and do other cool stuff. Check out some of my work below! 
+I'm Aidan, a third-year student at Loyola Marymount University studying Computer Science. I write Discord bots, design games, work on AI/ML projects, and do other cool stuff. Check out some of my work below! 
 
 ## 🔧 Tools & Technologies
 
