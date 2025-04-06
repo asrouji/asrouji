@@ -4,8 +4,8 @@ I'm a full-stack developer and Master's student at LMU. I love turning ideas int
 
 ## 🚀 Recent Projects
 
-- 📝 [**Gradeflows**](https://github.com/asrouji/gradeflows): A grading suite to automate mundane TA tasks, processing dozens of submissions concurrently!
-- 🤖 [**Synthergy**](https://github.com/synthergy-game/synthergy): An online multiplayer social deduction game featuring AI-powered players!
+- 📝 [**Gradeflows**](https://www.gradeflows.com/): A grading suite to automate mundane TA tasks, processing dozens of submissions concurrently!
+- 🤖 [**Synthergy**](https://www.synthergy.us/): An online multiplayer social deduction game featuring AI-powered players!
 - 🔎 [**BlindSpot**](https://github.com/LoganDickey/Blindspot): A web game to test your fake news detection skills against AI-generated headlines!
 - 📚 [**LMUCS Discord**](https://github.com/asrouji/lmucs-discord): A custom Discord bot to help connect the LMU Computer Science community!
 
