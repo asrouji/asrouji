@@ -1,6 +1,6 @@
 # Hey, I'm Aidan! 👋
 
-I'm a full-stack developer and recent Master's gratuate from LMU. I love turning ideas into reality with code, whether it be automating the mundane, building AI systems, or engineering efficient and scalable solutions. Check out some of my favorite projects below!
+I'm a full-stack developer and recent Master's gratuate from LMU. I build AI tools, automate workflows, and create software that solves real problems. Check out some of my recent work below!
 
 ## 🚀 Recent Projects
 
