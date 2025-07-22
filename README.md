@@ -29,5 +29,5 @@ I'm a full-stack developer and recent Master's graduate from LMU. Passionate abo
 
 ## 📈 GitHub Stats
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asrouji&hide=javascript,shaderlab,c%23,css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&size_weight=0.8&count_weight=0.2)](https://github.com/asrouji/asrouji)
-[![Aidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asrouji&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&custom_title=Aidan's%20GitHub%20Stats)](https://github.com/asrouji/asrouji)
+[![Most Used Languages](https://github-readme-stats-tau-red-95.vercel.app/api/top-langs/?username=asrouji&hide=javascript,shaderlab,c%23,css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&size_weight=0.8&count_weight=0.2)](https://github.com/asrouji/asrouji)
+[![Aidan's GitHub Stats](https://github-readme-stats-tau-red-95.vercel.app/api?username=asrouji&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&custom_title=Aidan's%20GitHub%20Stats)](https://github.com/asrouji/asrouji)
