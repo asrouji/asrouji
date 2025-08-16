@@ -1,13 +1,13 @@
 # Hey, I'm Aidan! 👋
 
-I'm a full-stack developer and recent Master's graduate from LMU. Passionate about building AI tools, automating workflows, and creating software that solves real problems. Check out some of my recent work below!
+I'm a full-stack developer and recent Master's graduate from LMU. I enjoy building AI tools, automating workflows, and creating software that solves real problems. Check out some of my recent work below!
 
 ## 🚀 Recent Projects
 
-- 📝 [**Gradeflows**](https://www.gradeflows.com/): A grading suite to automate mundane TA tasks, processing dozens of submissions concurrently!
-- 🤖 [**Synthergy**](https://www.synthergy.us/): An online multiplayer social deduction game featuring AI-powered players!
-- 🔎 [**BlindSpot**](https://devpost.com/software/blindspot-q9cjtf): A web game to test your fake news detection skills against AI-generated headlines!
-- 📚 [**LMUCS Discord**](https://github.com/asrouji/lmucs-discord): A custom Discord bot to help connect the LMU Computer Science community!
+- 📝 [**Gradeflows**](https://www.gradeflows.com/): AI-powered educational platform with personalized quiz generation and automated grading workflows
+- 🤖 [**Synthergy**](https://www.synthergy.us/): Multiplayer social deception game where humans compete against autonomous AI agents in real-time
+- 🔎 [**BlindSpot**](https://devpost.com/software/blindspot-q9cjtf): Interactive game testing your ability to distinguish real news from AI-generated headlines
+- 📚 [**LMUCS Discord**](https://github.com/asrouji/lmucs-discord): Custom Discord bot connecting and supporting the LMU Computer Science community
 
 ## 🔧 Tools & Technologies
 
